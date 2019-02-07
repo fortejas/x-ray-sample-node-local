@@ -1,0 +1,14 @@
+{
+  "name": "x-ray-sample-node",
+  "version": "0.1.0",
+  "description": "Sample script to send a trace to AWS X-Ray",
+  "main": "index.js",
+  "dependencies": {
+    "aws-xray-sdk": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "license": "Apache-2.0"
+}
